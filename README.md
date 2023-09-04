@@ -1,5 +1,14 @@
-# BikeMediaController
-A handlebar-mounted bluetooth media controller.
+# Bike Media Controller
+A handlebar-mounted bluetooth media controller. Essentially a bluetooth 3% mechanical keyboard with a rotary encoder.
+
+## Controls
+
+* **Left Button:** Previous Track
+* **Center Button:** Play/Pause
+* **Right Button:** Next Track
+* **Knob CW:** Volume Down
+* **Knob CCW:** Volume Up
+* **Knob Button:** Mute/Unmute
 
 ## Hardware
 * Seeed Studio XIAO ESP32C3
