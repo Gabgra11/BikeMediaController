@@ -17,6 +17,7 @@ A handlebar-mounted bluetooth media controller. Essentially a bluetooth 3% mecha
 * Rotary Encoder
 * 3.7v Lipo Battery
 * 4x M3 x 6mm Screws
+* 4x M3 heat set inserts
 
 ## Wiring
 OPTIONAL: Connect Lipo Battery to Battery +/- on the back of the Seeed Studio XIAO with a switch to interrupt power.
