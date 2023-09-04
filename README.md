@@ -1,5 +1,6 @@
 # Bike Media Controller
 A handlebar-mounted bluetooth media controller. Essentially a bluetooth 3% mechanical keyboard with a rotary encoder.
+![BMC](https://github.com/gabgra11/BikeMediaController/blob/main/BMC.jpg?raw=true)
 
 ## Controls
 
