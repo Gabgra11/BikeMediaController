@@ -19,5 +19,5 @@ A handlebar-mounted bluetooth media controller. Essentially a bluetooth 3% mecha
 * 4x M3 x 6mm Screws
 
 ## Wiring
-
-#TODO
+OPTIONAL: Connect Lipo Battery to Battery +/- on the back of the Seeed Studio XIAO with a switch to interrupt power.
+![Schematic](https://github.com/gabgra11/BikeMediaController/blob/main/BMC%20Schematic.png?raw=true)
